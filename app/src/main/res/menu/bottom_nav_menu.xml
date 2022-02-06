@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_title"
+        android:icon="@drawable/ic_outline_watch_later_24"
+        android:title="@string/title_latest" />
+
+    <item
+        android:id="@+id/navigation_top"
+        android:icon="@drawable/ic_outline_arrow_upward_24"
+        android:title="@string/title_top" />
+
+    <item
+        android:id="@+id/navigation_hot"
+        android:icon="@drawable/ic_outline_whatshot_24"
+        android:title="@string/title_hot" />
+
+</menu>
